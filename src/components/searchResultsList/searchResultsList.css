@@ -1,0 +1,16 @@
+.searchResultsList {
+	list-style-type: none;
+}
+
+.searchResultsList li {
+	padding: 20px 10px;
+	border-bottom: 2px solid black;
+}
+
+.searchResultsList h2 {
+	font-weight: bold;
+}
+
+.searchResultsList p {
+	text-align: left;
+}

@@ -1,0 +1,14 @@
+.searchFilters {
+	background-color: rgb(214, 211, 211);
+	padding: 5px;
+}
+
+.searchFilters label {
+	font-size: 16px;
+	padding: 0 5px;
+}
+
+.searchFilters select {
+	margin-right: 10px;
+	border-radius: 5px;
+}
